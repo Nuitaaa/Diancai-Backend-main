@@ -1,0 +1,9 @@
+Diancai-Backend.code-workspace
+__pycache__
+cache
+outputs
+app/musicgen.wav
+*.json
+.vs
+model
+musicgen.wav
